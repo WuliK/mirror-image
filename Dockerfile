@@ -1,1 +1,1 @@
-FROM postgres:15.4
+FROM dpage/pgadmin4
